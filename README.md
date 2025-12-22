@@ -35,6 +35,9 @@ To see the relationships between different utility companies, I generated a clus
 
 **Outliers:** San Diego (Cluster 3) and NY (Cluster 6) appear as distinct branches on the dendrogram, meaning their data signatures are unique enough to keep them separate from the larger utility groups.
 
+ ![clusterchart](clusterchart.png)
+ ![clusterchart](images/clusterchart.png)
+
 ## Business Insights & Findings ##
 
 Through this analysis, I identified several key business insights based on how the utility companies grouped together:  
